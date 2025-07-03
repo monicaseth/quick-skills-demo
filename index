@@ -12,6 +12,5 @@
     <p>This is a simple HTML file created for GitHub activity.</p>
     <button id="actionButton">Click Me</button>
     <script src="script.js"></script>
-<main>
 </body>
 </html>
